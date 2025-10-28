@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "release_date": "2024-01-15",
+  "changelog": "Initial release with OTA update functionality",
+  "firmware_url": "https://raw.githubusercontent.com/RUPAMHALDAR/esp32-ota-updates/main/firmware.bin"
+}
